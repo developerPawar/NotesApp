@@ -8,6 +8,7 @@ The list of 4 additional features are as follows -
 4. Delete notes 
 
 ====================================================
+
 Dependency packages - 
 1. React MDE - npm i react-mde [A simple yet powerful and extensible React Markdown Editor that aims to have feature parity with the Github Markdown editor. React-mde has no 3rd party dependencies.]
 2. React Split - npm i react-split [The <Split /> component wraps multiple children components to create a resizeable split view. ]
